@@ -27,8 +27,8 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
 import twofit from "./twofit.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import ASH_LMS from "./ASH-LMS.png";
+import merciaChatBot from "./mercia chat bot.png";
 
 export {
   logo,
@@ -57,6 +57,6 @@ export {
   starbucks,
   tesla,
   twofit,
-  jobit,
-  tripguide,
+  ASH_LMS,
+  merciaChatBot,
 };

@@ -20,8 +20,8 @@ import {
   tesla,
   shopify,
   twofit,
-  jobit,
-  tripguide,
+  ASH_LMS,
+  merciaChatBot,
   threejs,
 } from "../assets";
 
@@ -191,7 +191,7 @@ const projects = [
       },
     ],
     image: twofit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://app.twofit.in/login",
   },
 
   {
@@ -220,8 +220,8 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: twofit,
-    source_code_link: "https://github.com/",
+    image: ASH_LMS,
+    source_code_link: "https://ashacademylms.com/courses",
   },
 
   {
@@ -254,8 +254,8 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: twofit,
-    source_code_link: "https://github.com/",
+    image: merciaChatBot,
+    source_code_link: "",
   },
 ];
 
